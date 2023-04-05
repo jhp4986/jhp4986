@@ -1,5 +1,9 @@
 <div align="center">
-  <h1>  Hi There! I’m Jacob 🤟🏼 </h1>
+<!--  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jhp4986"> -->
+
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=500&size=30&duration=3000&pause=1000&color=F7B91FE4&center=true&width=443&lines=Hi%2C+There+!+%F0%9F%91%8B%F0%9F%8F%BC;I'm+Jacob+Park+%F0%9F%A4%9F%F0%9F%8F%BC" alt="Typing SVG" /></a>
+</h1>
   <br>
   <h3>  📧 jhp4986@gmail.com </h3>
   <h3>  📖 https://velog.io/@jhp4986 </h3>
@@ -10,7 +14,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhp4986&layout=compact&theme=tokyonight)
   <br>
   <div>
-    <h2> ⚙️ Tech ⚙️ </h2>
+    <h2> 💫 Tech 💫 </h2>
     <div align="center">
 <table>
     <tr>
