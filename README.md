@@ -13,7 +13,7 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhp4986&show_icons=true&theme=tokyonight)
   <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhp4986&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhp4986&theme=tokyonight)
   <br>
   <div>
     <h2> 💫 Tech 💫 </h2>
