@@ -9,11 +9,12 @@
   <h3>  📬 jhp4986@gmail.com </h3>
   <h3>  📙 https://jhp4986.github.io</h3> 
   <h3>  📗 https://velog.io/@jhp4986</h3>
+  
   <br>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhp4986&show_icons=true&theme=tokyonight)
+  ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhp4986&show_icons=true&theme=tokyonight&count_private=true)
   <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhp4986&layout=compact&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhp4986&layout=compact&theme=tokyonight&count_private=true)
   <br>
   <div>
     <h2> 💫 Tech 💫 </h2>
