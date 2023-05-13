@@ -17,7 +17,7 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhp4986&layout=compact&theme=tokyonight&count_private=true)
   <br>
   <div>
-    <h2> 💫 Tech 💫 </h2>
+    <h2>💫 Tech 💫</h2>
     <div align="center">
 <table>
     <tr>
