@@ -13,7 +13,7 @@
   <br>
   
   ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhp4986&show_icons=true&theme=tokyonight&count_private=true)
-  <br>
+  <br/>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhp4986&layout=compact&theme=tokyonight&count_private=true)
   <br>
   <div>
