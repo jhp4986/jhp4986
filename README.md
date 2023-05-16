@@ -11,10 +11,9 @@
   <h3>  📗 https://velog.io/@jhp4986</h3>
   
   <br>
-  
-  ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhp4986&show_icons=true&theme=tokyonight&count_private=true)
-  <br/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhp4986&layout=compact&theme=tokyonight&count_private=true)
+    <img width="480" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jhp4986&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <br/>
+    <img width="480" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhp4986&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <br>
   <div>
     <h2>💫 Tech 💫</h2>
