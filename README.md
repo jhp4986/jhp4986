@@ -13,7 +13,7 @@
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhp4986&show_icons=true&theme=nightowl&count_private=true" />
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhp4986&layout=compact&show_icons=true&theme=nightowl&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhp4986&layout=compact&show_icons=true&theme=nightowl&count-private=true" />
   <br>
   <div>
     <h2>💫 Tech 💫</h2>
