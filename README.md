@@ -11,7 +11,7 @@
   <h3>  📗 https://velog.io/@jhp4986</h3>
   
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhp4986&show_icons=true&theme=nightowl&count_private=true" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jhp4986&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhp4986&layout=compact&show_icons=true&theme=nightowl&count_private=true" />
   <br>
