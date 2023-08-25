@@ -36,7 +36,7 @@
   
   [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](jhp4986@gmail.com)  
   [![Blog](https://img.shields.io/badge/-Velog-6A6B6D?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@jhp4986)
-  [![Blog](https://img.shields.io/badge/-Tech%20Blog-6A6B6D?style=for-the-badge&logo=Github&logoColor=white)](https://velog.io/@jhp4986)
+  [![Blog](https://img.shields.io/badge/-Tech%20Blog-6A6B6D?style=for-the-badge&logo=Github&logoColor=white)](https://jhp4986.github.io)
   
 
 
