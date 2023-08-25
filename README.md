@@ -1,67 +1,48 @@
- <div align="center"> 
-   
-<!--  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jhp4986"> -->
-<h1 align="center">        
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=500&size=30&duration=3000&pause=1000&color=F7B91FE4&center=true&width=443&lines=Hi%2C+There+!+%F0%9F%91%8B%F0%9F%8F%BC;I'm+Jacob+Park+%F0%9F%A4%9F%F0%9F%8F%BC" alt="Typing SVG" /></a>
-</h1>
-  <br>
-  <h4 >  🔥 I am a front-end developer who pursues continuous growth and development without stopping.🔥 </h4>
-  <h3>  📬 jhp4986@gmail.com </h3>
-  <h3>  📙 https://jhp4986.github.io</h3> 
-  <h3>  📗 https://velog.io/@jhp4986</h3>
+<div align="center">
   
-  <br>
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jhp4986&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhp4986&layout=compact&show_icons=true&theme=nightowl&count_private=true" />
-  <br>
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jacob%20Park&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FE%20Dev.%20who%20pursues%20continuous%20growth%20and%20development%20witout%20stopping&descAlignY=52&descAlign=58)
   
-  <div>
-    <h2>💫 Tech 💫</h2>
-    <div align="center">
-<table>
-    <tr>
-  <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-         <td align="center"  width="96">
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-          <td align="center" width="96">
-       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-        <td align="center" width="96">
- <img src="https://miro.medium.com/v2/resize:fit:480/1*Iohnw2aOQ5EBghVoqKA7VA.png" alt="icon" width="65" height="65" />
-      <br>SC
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
-      <br>Sass
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="65" height="65" alt="GitHub" />
-      <br>Github
-    </td>
-  </tr>
-    </div>
-    <div align="center">
-  </tr>
-</table>
+  </div>
+  
+  <div align="center">
+  
+  <img align="left" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jhp4986&theme=dracula&langs_count=8&layout=compact&exclude_repo=algorithm,productive-box&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
+
+  
+  ## 💫 𝑻𝑬𝑪𝑯 💫 
+  
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)  
+  ![TypeScript](https://img.shields.io/badge/TypeScript-006FED?style=for-the-badge&logo=TypeScript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-18BCEE?style=for-the-badge&logo=React&logoColor=white)
+  ![StyledComponents](https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git)
+  
+  <br/>
+  
+  ---
+  
+  <br/>
+  
+  <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jhp4986&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-    <br>
+
+<div align="center">
+  
+  ## 🔥 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 🔥
+    
+  <br/>
+  
+  [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](jhp4986@gmail.com)  
+  [![Blog](https://img.shields.io/badge/-Velog-6A6B6D?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@jhp4986)
+  [![Blog](https://img.shields.io/badge/-Tech%20Blog-6A6B6D?style=for-the-badge&logo=Github&logoColor=white)](https://velog.io/@jhp4986)
+  
+
+
+  
+
+  
+
+
 </div>
