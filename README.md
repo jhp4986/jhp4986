@@ -17,6 +17,7 @@
   ![TypeScript](https://img.shields.io/badge/TypeScript-006FED?style=for-the-badge&logo=TypeScript&logoColor=white)
   ![React](https://img.shields.io/badge/React-18BCEE?style=for-the-badge&logo=React&logoColor=white)
   ![StyledComponents](https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
+  ![MUI](https://img.shields.io/badge/MUI-006FED?style=for-the-badge&logo=MUI&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git)
   
   <br/>
