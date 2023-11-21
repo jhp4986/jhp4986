@@ -16,7 +16,6 @@
   ![React](https://img.shields.io/badge/React-18BCEE?style=for-the-badge&logo=React&logoColor=white)
   <img src="https://img.shields.io/badge/reactquery-FF6969?style=for-the-badge&logo=react-query&logoColor=white">
   ![MUI](https://img.shields.io/badge/MUI-006FED?style=for-the-badge&logo=MUI&logoColor=white)  
-
   ![StyledComponents](https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
